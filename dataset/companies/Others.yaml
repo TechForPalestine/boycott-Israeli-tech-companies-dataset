@@ -123,3 +123,7 @@
   - Name: "Kommunity"
     Description: "Let's share together | Kommunity"
     Website: "https://kommunity.com/"
+- Name: "University of People"
+  Description: "Remote university impersonating the identity of a US university while in fact it is an Israeli university."
+  Website: "https://www.uopeople.edu/"
+  Alternatives: []
